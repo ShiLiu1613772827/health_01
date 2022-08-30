@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:08:43:19 +0800] "GET /pages/index.html HTTP/1.1" 304 - http-bio-80-exec-1 53
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:08:54:14 +0800] "GET /pages/m_setmeal.html HTTP/1.1" 304 - http-bio-80-exec-4 64
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:08:54:19 +0800] "GET /pages/setmeal_detail_9.html HTTP/1.1" 200 5966 http-bio-80-exec-6 109
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:08:54:31 +0800] "GET /pages/orderInfo.html?id=9 HTTP/1.1" 200 9158 http-bio-80-exec-7 51
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:08:54:32 +0800] "POST /setmeal/findById.do?id=9 HTTP/1.1" 200 2220 http-bio-80-exec-8 503
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:08:54:51 +0800] "POST /validateCode/send4Order.do?telephone=13787158579 HTTP/1.1" 200 59 http-bio-80-exec-9 1685
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:09:10:10 +0800] "GET /pages/setmeal_detail_15.html HTTP/1.1" 200 3942 http-bio-80-exec-6 33
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:09:10:12 +0800] "GET /pages/orderInfo.html?id=15 HTTP/1.1" 200 9158 http-bio-80-exec-6 3
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:09:10:12 +0800] "POST /setmeal/findById.do?id=15 HTTP/1.1" 200 673 http-bio-80-exec-6 69
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:09:10:31 +0800] "POST /validateCode/send4Order.do?telephone=13787158579 HTTP/1.1" 200 59 http-bio-80-exec-10 1186
